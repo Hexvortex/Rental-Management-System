@@ -68,6 +68,31 @@ python bot.py
 4. **Automated Notifications**: The bot script sends automated reminders for due payments and maintenance tasks.
 5. **Regular Operations**: Continue to use the CLI for regular management tasks and updates.
 
+## Simple Explanation
+
+### Project Name
+**Rental Management System**
+
+### Project Description
+The Rental Management System is a tool designed to help property managers keep track of rental properties, tenants, and caretakers. It makes the job easier by automating tasks like sending payment reminders and scheduling maintenance.
+
+### Project Problem
+Managing rental properties can be difficult and confusing. Property managers need to keep track of who is renting, when rent is due, and what maintenance is needed. Doing all this manually can lead to mistakes and take a lot of time.
+
+### Project Solution
+The Rental Management System solves these problems by providing a single place to manage everything related to rental properties. It keeps track of tenants, properties, and caretakers, and automatically sends reminders for payments and maintenance. This makes the management process faster and more accurate.
+
+### Minimum Viable Product (MVP)
+The MVP of the Rental Management System includes:
+1. **Property Management**: Easily add and manage properties.
+2. **Tenant Management**: Keep records of tenants and their rental agreements.
+3. **Caretaker Management**: Register and manage caretakers.
+4. **Automated Notifications**: Automatically send reminders for rent payments and maintenance tasks.
+5. **Command-Line Interface (CLI)**: Simple text-based interface to use the system.
+6. **Database Integration**: Store all information securely in a database.
+
+This MVP includes the essential features needed to help property managers start managing their rental properties more efficiently.
+
 ## Authors
 - **Griffins Mbae**
   - Phone: 0743269238
