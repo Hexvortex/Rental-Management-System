@@ -11,7 +11,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 
-TOKEN = "7434751458:AAG8roUDGUEex8VIxO2jWmpUpVhmWRD8vsg"
+TOKEN = "#"
 
 # Create tables
 Base.metadata.create_all(bind=engine)
