@@ -91,10 +91,4 @@ The MVP of the Rental Management System includes:
 5. **Command-Line Interface (CLI)**: Simple text-based interface to use the system.
 6. **Database Integration**: Store all information securely in a database.
 
-This MVP includes the essential features needed to help property managers start managing their rental properties more efficiently.
-
-## Authors
-- **Griffins Mbae**
-  - Phone: 0743269238
-  - Email: griffinskirimimbae@gmail.com
 
